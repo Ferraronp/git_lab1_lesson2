@@ -1,1 +1,10 @@
 Разница в голове, из-за того что в demo отсутствует ветка hat, а в master присутствует
+8 комитов:
+1) init
+2) boots
+3) README added
+4) dots
+5) fix readme
+6) Merge boots
+7) Merge boots_buttons
+8) hometask
